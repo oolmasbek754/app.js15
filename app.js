@@ -20,4 +20,5 @@ function appendFile(text) {
 
 writeFile('Salom dunyo!');
 appendFile('Yangi qator');
+
 readFile();
